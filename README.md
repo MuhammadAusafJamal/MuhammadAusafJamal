@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ausaf Jamal</h1>
-<h3 align="center">An enthusiactic Full Stack Developer creating cutting-edge and user-centric applications across the full technology stack, emphasizing scalability as a key priority.</h3>
+<h3 align="center">An enthusiactic Software Engineer creating cutting-edge and user-centric applications across the full technology stack, emphasizing scalability as a key priority.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadausafjamal&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadausafjamal" /> </p>
 

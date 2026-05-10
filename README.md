@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadausafjamal&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadausafjamal" /> </p>
 
-- 🌱 I’m currently learning **ReactJS,NodeJS,ExpressJS,SQL and NoSQL Databases**
+- 🌱 I’m currently exploring **AI / ML, RAGs, Agentic AI** related stuff.
 
-- 💬 Ask me about **HTML5,CSS3,JavaScript,ES6**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, ES6, ReactJS, NodeJS, ExpressJS, SQL Database**
 
 - 📫 How to reach me **ausaffarooqui17@gmail.com**
 

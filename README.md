@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ausaf Jamal</h1>
 <h3 align="center">An enthusiactic Software Engineer creating cutting-edge and user-centric applications across the full technology stack, emphasizing scalability as a key priority.</h3>
 
+---
+[![](https://komarev.com/ghpvc/?username=muhammadausafjamal&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🌱 I’m currently exploring AI / ML, RAGs, Agentic AI related stuff.<br>💬 Ask me about HTML5, CSS3, JavaScript, ES6, ReactJS, NodeJS, ExpressJS, SQL Database<br>📫 How to reach me ausaffarooqui17@gmail.com
 
@@ -20,8 +23,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
----
-[![](https://komarev.com/ghpvc/?username=muhammadausafjamal&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Muhammad Ausaf Jamal</h1>
+<h3 align="center">An enthusiactic Software Engineer creating cutting-edge and user-centric applications across the full technology stack, emphasizing scalability as a key priority.</h3>
+
 # 💫 About Me:
 🌱 I’m currently exploring AI / ML, RAGs, Agentic AI related stuff.<br>💬 Ask me about HTML5, CSS3, JavaScript, ES6, ReactJS, NodeJS, ExpressJS, SQL Database<br>📫 How to reach me ausaffarooqui17@gmail.com
 
